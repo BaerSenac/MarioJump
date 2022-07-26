@@ -19,6 +19,10 @@
     
 }
 
+p {
+    color: white;
+}
+
 .game-board {
     width: 60%;
     height: 800px;
@@ -51,7 +55,7 @@
 @media (min-width:400px) and (max-width: 1024px){
 
     .pipe {
-        width: 60px;
+        width: 50px;
         animation: pipe-animation 1s infinite linear;
         
     }
@@ -65,6 +69,16 @@
     bottom: 0;
     
 }
+
+@media (min-width:400px) and (max-width: 1024px){
+
+    .mario {
+        width: 80px;
+        
+        
+    }
+    
+    }
 
 .jump {
     animation: jump 500ms ease-out;
