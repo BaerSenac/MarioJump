@@ -56,7 +56,7 @@ p {
 
     .pipe {
         width: 50px;
-        animation: pipe-animation 1s infinite linear;
+        animation: pipe-animation 0.9s infinite linear;
         
     }
     
@@ -73,7 +73,7 @@ p {
 @media (min-width:300px) and (max-width: 1024px){
 
     .mario {
-        width: 90px;
+        width: 100px;
         
         
     }
@@ -163,7 +163,7 @@ p {
         bottom: 180px;
     }
     50% {
-        bottom: 180px;
+        bottom: 190px;
     }
     60% {
         bottom: 130px;
