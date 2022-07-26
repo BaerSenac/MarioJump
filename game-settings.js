@@ -40,4 +40,4 @@ btn.addEventListener("click", function() {
     location.reload();
 });
 
-document.addEventListener('keydown', jump);
+document.addEventListener('keydown', 'touch', jump);

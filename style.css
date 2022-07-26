@@ -48,7 +48,7 @@
         
 }
 
-@media (min-width:480px) and (max-width: 1024px){
+@media (min-width:400px) and (max-width: 1024px){
 
     .pipe {
         width: 60px;
@@ -109,7 +109,7 @@
     transform: scale(1.031);
 }
 
-@media (min-width:480px) and (max-width: 1024px) {
+@media (min-width:400px) and (max-width: 1024px) {
 
     .refresh {
         font-size: 20px;
