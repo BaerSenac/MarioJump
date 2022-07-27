@@ -9,12 +9,11 @@
 .name-game {
     background-color: #272727;
     text-align: center;
-    margin-bottom: 10px;
     
 }
 
 .name-game-title {
-    font-size: 46px;
+    font-size: 25px;
     color: white;
     
 }
@@ -120,7 +119,7 @@ p {
 .refresh {
     background-color: rgb(32, 161, 6);
     color: white;
-    font-size: 40px;
+    font-size: 20px;
     border: 1px solid rgb(19, 19, 19);
     width: 20%;
     margin-top: 20px;
