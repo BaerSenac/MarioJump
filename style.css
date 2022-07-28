@@ -48,6 +48,7 @@ p {
     width: 70px;
     right: -70px;
     animation: pipe-animation 1.5s infinite linear;
+    user-select: none;
         
 }
 
@@ -66,6 +67,7 @@ p {
     width: 110px;
     position: absolute;
     bottom: 0;
+    user-select: none;
     
 }
 
@@ -90,6 +92,7 @@ p {
     width: 550px;
     animation: clouds-animation 4s infinite linear;
     margin-top: 200px;
+    user-select: none;
     
 }
 .clouds2 {
@@ -97,6 +100,7 @@ p {
     width: 550px;
     animation: clouds-animation2 6s infinite linear;
     margin-top: 20px;
+    user-select: none;
     
     
 }
